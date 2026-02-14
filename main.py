@@ -75,3 +75,4 @@ def delete_product(product_id: int):
             return "Product deleted" 
     
     return "Product not found"
+
