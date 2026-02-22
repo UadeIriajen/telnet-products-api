@@ -7,3 +7,4 @@ class Product(BaseModel):
     price: float
     quantity: int
 
+
